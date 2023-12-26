@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Umi 👋
 
-<!--
-**Umi007/Umi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+'''python
+umayr_hussain = {
+  'name' : "Umi Hussain",
+  'location' : 'Newcastle upon Tyne, UK',
+  'programming_languages' : ['Python', 'Solidity', 'HTML', 'CSS'],
+  'modular_toolkits' : ['Truffle Suite/Ganache', 'Remix', 'Foundry', 'Alchemy', 'SQL', 'Docker', 'Azure', 'AzureSQL', 'MongoDB', 'Kubernetes', 'Terraform'],
+  'libraries' : ['OpenZeppelin', 'Chainlink', 'Flask', 'Pandas', 'NumPy', 'Matplotlib', 'Scikit-learn'],
+  'interests' : ['Blockchain Engineering', 'Smart Contract Auditing', 'Data Science', 'Machine Learning', 'Generative AI', 'Gym', 'Football']
+}
