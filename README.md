@@ -15,4 +15,4 @@ umayr_hussain = {
 
 *I am a recent first-class graduate of Newcastle University, presently working on a DevOps Bootcamp with AiCore. Concurrently, I hold a part-time position as a Front of House Manager at the esteemed Tynemouth-based restaurant, Iztuzu.*
 
-*I have a deep passion for all things technology, recently I have been diving into modern engineering, in particular, Blockchain fundamentals. Going forward I am hoping to develop my smart-contract auditing skills!*
+*I have a deep passion for all things technology, recently I have been diving into modern engineering, in particular, DevOps and DevSecOps. Going forward I am hoping to develop my Engineering skills!*
