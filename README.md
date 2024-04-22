@@ -3,7 +3,7 @@
 ## About Me
 
 ``` python
-umayr_hussain = {
+umi_hussain = {
   'name' : "Umi Hussain",
   'location' : 'Newcastle upon Tyne, UK',
   'programming_languages' : ['Python', 'Solidity', 'HTML', 'CSS'],
