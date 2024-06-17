@@ -13,5 +13,5 @@ umi_hussain = {
 }
 ```
 
-*I am a recent first-class graduate of Newcastle University, presently working on a DevOps Bootcamp with AiCore.*
+*I am a recent graduate of Newcastle University, presently working on a DevOps Bootcamp with AiCore.*
 *I have a deep passion for all things technology, recently I have been diving into modern engineering. Going forward I am hoping to develop my Engineering skills!*
