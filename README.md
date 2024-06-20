@@ -6,7 +6,7 @@
 umi_hussain = {
   'name' : "Umi Hussain",
   'location' : 'Newcastle upon Tyne, UK',
-  'programming_languages' : ['Python', 'Solidity', 'HTML', 'CSS'],
+  'programming_languages' : ['Python', 'Solidity', 'Java', 'HTML'],
   'modular_toolkits' : ['Truffle Suite/Ganache', 'Remix', 'Foundry', 'Alchemy', 'SQL', 'Docker', 'Azure', 'AzureSQL', 'MongoDB', 'Kubernetes', 'Terraform'],
   'libraries' : ['OpenZeppelin', 'Chainlink', 'Flask', 'Pandas', 'NumPy', 'Matplotlib', 'Scikit-learn'],
   'interests' : ['Smart Contract Auditing', 'DevOps', 'DevSecOps', 'Machine Learning', 'Gym', 'Football']
